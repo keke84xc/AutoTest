@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="suitename">
+    <test name="allGroups">
+        <classes>
+            <class name="com.keke84.testng.groups.StudentGroup1Test"></class>
+            <class name="com.keke84.testng.groups.StudentGroup2Test"></class>
+            <class name="com.keke84.testng.groups.TeacherGroup1Test"></class>
+        </classes>
+    </test>
+
+    <test name="stuGroups">
+        <groups>
+            <run>
+                <!-- include的name属性是组名 -->
+                <include name="stu" />
+            </run>
+        </groups>
+
+        <classes>
+            <class name="com.keke84.testng.groups.StudentGroup1Test"></class>
+            <class name="com.keke84.testng.groups.StudentGroup2Test"></class>
+            <class name="com.keke84.testng.groups.TeacherGroup1Test"></class>
+        </classes>
+    </test>
+</suite>

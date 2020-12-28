@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="parameterstest">
+    <test name="param">
+
+
+        <parameter name="name" value="zhangsan"></parameter>
+        <parameter name="age" value="20"></parameter>
+        <!-- 后面定义的会覆盖前面的参数 -->
+        <parameter name="name" value="lisi"></parameter>
+        <parameter name="age" value="40"></parameter>
+
+        <classes>
+            <class name="com.keke84.testng.parameter.ParameterByXmlTest" >
+            </class>
+        </classes>
+    </test>
+
+</suite>
