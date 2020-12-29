@@ -8,7 +8,6 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Chapter5_testng</module>
-        <module>Chapter6_ExtentReport</module>
     </modules>
 
 </project>
