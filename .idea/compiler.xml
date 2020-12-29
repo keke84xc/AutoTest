@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Chapter5_testng" />
+        <module name="Chapter6_ExtentReport" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Chapter5_testng" target="1.5" />
+      <module name="Chapter6_ExtentReport" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
