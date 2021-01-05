@@ -1,0 +1,30 @@
+[
+  {
+    "description": "重定向到外部网页",
+    "request": {
+      "uri": "/get/redirect",
+      "method": "get"
+    },
+    "redirectTo": "https://www.baidu.com"
+  },
+  {
+    "description": "重定向到内部资源",
+    "request": {
+      "uri": "/redirect/topath",
+      "method": "get"
+    },
+    "redirectTo": "/redirect/new"
+  },
+  {
+    "description": "这是重定向到的资源",
+    "request": {
+      "uri": "/redirect/new"
+    },
+    "response": {
+      "json": {
+        "code": 1,
+        "msg":"重定向成功！"
+      }
+    }
+  }
+]

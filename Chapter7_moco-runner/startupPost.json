@@ -1,0 +1,32 @@
+[
+  {
+    "description": "模拟一个没有参数的post请求",
+    "request": {
+      "uri": "/postdemo",
+      "method": "post"
+    },
+    "response": {
+      "text": "这是一个没有参数的post请求",
+      "headers":{
+        "Content-Type":"application/json;charset=gbk"
+      }
+    }
+  },
+  {
+    "description": "模拟一个有参数的post请求",
+    "request": {
+      "uri": "/postwithformData",
+      "method": "post",
+      "forms": {
+        "name": "huhansan",
+        "age": "18"
+      }
+    },
+    "response": {
+      "text": "这是一个有formData参数的post请求",
+      "headers":{
+        "Content-Type":"application/json;charset=gbk"
+      }
+    }
+  }
+]
