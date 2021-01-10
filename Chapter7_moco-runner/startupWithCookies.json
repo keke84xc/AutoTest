@@ -1,5 +1,21 @@
 [
   {
+    "description": "这是1个返回cookie信息的get请求",
+    "request": {
+      "uri": "/getCookies",
+      "method": "get"
+    },
+    "response": {
+      "cookies": {
+        "login":"true"
+      },
+      "json": {
+        "code": "1",
+        "msg": "成功获取cookies"
+      }
+    }
+  },
+  {
     "description": "模拟一个带cookie的get请求",
     "request": {
       "uri": "/get/with/cookies",
@@ -35,7 +51,7 @@
     "response": {
       "status": 200,
       "json": {
-        "code": 1,
+        "code": "1",
         "msg": "成功",
         "huhansan": "success"
       }

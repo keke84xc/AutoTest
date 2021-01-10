@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/AutoTest.iml" filepath="$PROJECT_DIR$/.idea/AutoTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter5_testng/Chapter5_testng.iml" filepath="$PROJECT_DIR$/Chapter5_testng/Chapter5_testng.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter6_report_ExtentReport/Chapter6_report_ExtentReport.iml" filepath="$PROJECT_DIR$/Chapter6_report_ExtentReport/Chapter6_report_ExtentReport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter9_httpclient/Chapter9_httpclient.iml" filepath="$PROJECT_DIR$/Chapter9_httpclient/Chapter9_httpclient.iml" />
     </modules>
   </component>
 </project>
