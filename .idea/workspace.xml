@@ -26,49 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="957ed651-03d0-4237-afc1-4b1325721ec9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_68.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20180813.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9_httpclient/Chapter9_httpclient.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9_httpclient/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9_httpclient/src/main/java/com/keke84/httpclient/cookies/MyCookiesForGetNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9_httpclient/src/main/java/com/keke84/httpclient/cookies/MyCookiesForGetOld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9_httpclient/src/main/java/com/keke84/httpclient/cookies/MyCookiesForPostByFastJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9_httpclient/src/main/java/com/keke84/httpclient/cookies/MyCookiesForPostByJsonObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9_httpclient/src/main/java/com/keke84/httpclient/demo/MyHttpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9_httpclient/src/main/java/com/keke84/httpclient/formData/PostWithFormData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9_httpclient/src/main/java/com/keke84/httpclient/utils/StringEncodingUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9_httpclient/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9_httpclient/src/main/resources/test2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9_httpclient/src/main/resources/test3.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5_testng/target/classes/META-INF/Chapter5_testng.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5_testng/target/classes/com/keke84/testng/BasicAnnotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5_testng/target/classes/com/keke84/testng/DependTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5_testng/target/classes/com/keke84/testng/ExpectExceptionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5_testng/target/classes/com/keke84/testng/IgnoreTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5_testng/target/classes/com/keke84/testng/TimeoutTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5_testng/target/classes/com/keke84/testng/groups/CarGroupsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5_testng/target/classes/com/keke84/testng/groups/GroupsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5_testng/target/classes/com/keke84/testng/groups/StudentGroup1Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5_testng/target/classes/com/keke84/testng/groups/StudentGroup2Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5_testng/target/classes/com/keke84/testng/groups/TeacherGroup1Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5_testng/target/classes/com/keke84/testng/multiThread/MultiThreadOnAnnotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5_testng/target/classes/com/keke84/testng/parameter/DataFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5_testng/target/classes/com/keke84/testng/parameter/MyFactoryTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5_testng/target/classes/com/keke84/testng/parameter/ParameterByDataProviderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5_testng/target/classes/com/keke84/testng/parameter/ParameterByXmlTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5_testng/target/classes/com/keke84/testng/suite/LoginTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5_testng/target/classes/com/keke84/testng/suite/PayTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5_testng/target/classes/com/keke84/testng/suite/SuiteConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter6_report_ExtentReport/target/classes/META-INF/Chapter6_report_ExtentReport.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter6_report_ExtentReport/target/classes/com/tester/etend/demo/ExtentTestNGIReporterListener$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter6_report_ExtentReport/target/classes/com/tester/etend/demo/ExtentTestNGIReporterListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter6_report_ExtentReport/target/classes/com/tester/etend/demo/TestMethodDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter7_moco-runner/startupWithCookies.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter7_moco-runner/startupWithCookies.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,7 +192,7 @@
       <workItem from="1608830408343" duration="66009000" />
       <workItem from="1609565641192" duration="29354000" />
       <workItem from="1609948023720" duration="3818000" />
-      <workItem from="1610103923287" duration="18553000" />
+      <workItem from="1610103923287" duration="19493000" />
     </task>
     <servers />
   </component>
