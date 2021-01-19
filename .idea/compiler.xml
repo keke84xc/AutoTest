@@ -2,21 +2,30 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Chapter6_ExtentReport" />
+        <module name="Chapter10_springBoot" />
         <module name="Chapter6_report_ExtentReport" />
+        <module name="Chapter6_ExtentReport" />
         <module name="Chapter5_testng" />
         <module name="Chapter9_httpclient" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="7">
-      <module name="AutoTest" target="1.5" />
+      <module name="AutoTest" target="1.8" />
+      <module name="Chapter10_springBoot" target="1.8" />
       <module name="Chapter5_testng" target="1.5" />
       <module name="Chapter6_report_ExtentReport" target="1.5" />
       <module name="Chapter9_httpclient" target="7" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Chapter10_springBoot" options="-parameters" />
+      <module name="Chapter9_httpclient" options="-parameters" />
+    </option>
   </component>
 </project>
