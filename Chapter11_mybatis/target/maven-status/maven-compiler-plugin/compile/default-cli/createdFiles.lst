@@ -1,0 +1,3 @@
+com\course\controller\UserController.class
+com\course\mapper\UserMapper.class
+com\course\MyApplication.class

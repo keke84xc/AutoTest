@@ -13,7 +13,6 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.3.7.RELEASE</version>
-        <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
     <properties>
@@ -25,6 +24,7 @@
         <module>Chapter6_report_ExtentReport</module>
         <module>Chapter9_httpclient</module>
         <module>Chapter10_springBoot</module>
+        <module>Chapter11_mybatis</module>
     </modules>
 
 

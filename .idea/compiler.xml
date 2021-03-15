@@ -7,16 +7,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Chapter10_springBoot" />
-        <module name="Chapter6_report_ExtentReport" />
+        <module name="Chapter11_mybatis" />
         <module name="Chapter6_ExtentReport" />
         <module name="Chapter5_testng" />
+        <module name="Chapter10_springBoot" />
         <module name="Chapter9_httpclient" />
+        <module name="Chapter6_report_ExtentReport" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="7">
       <module name="AutoTest" target="1.8" />
       <module name="Chapter10_springBoot" target="1.8" />
+      <module name="Chapter11_mybatis" target="1.8" />
       <module name="Chapter5_testng" target="1.5" />
       <module name="Chapter6_report_ExtentReport" target="1.5" />
       <module name="Chapter9_httpclient" target="7" />
@@ -25,6 +27,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Chapter10_springBoot" options="-parameters" />
+      <module name="Chapter11_mybatis" options="-parameters" />
       <module name="Chapter9_httpclient" options="-parameters" />
     </option>
   </component>

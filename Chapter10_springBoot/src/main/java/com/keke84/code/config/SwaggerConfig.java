@@ -11,6 +11,7 @@ import springfox.documentation.spi.DocumentationType;
 import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 //配置swagger，加载配置文件
+//配置文件注解
 @Configuration
 @EnableSwagger2
 public class SwaggerConfig {
@@ -21,17 +22,21 @@ public class SwaggerConfig {
                 .apiInfo(apiInfo())
                 .pathMapping("/")
                 .select()
-                //正则匹配，例如：匹配MyGetMethodServer中的方法
+                //正则匹配，例如：匹配controller中的方法
                 //此时由于这些方法没有相同的名字前缀，所以写的.*
                 .paths(PathSelectors.regex("/.*"))
                 .build();
     }
     private ApiInfo apiInfo() {
+
         //title：生成文档后的title
-        return new ApiInfoBuilder().title("我的接口文件")
+        return new ApiInfoBuilder().title("我的接口文档")
                 .contact(new Contact("keke84xc","","123@qq.com"))
                 .description("这是我的swaggerUI生成的文档")
                 .version("1.0.0.0")
                 .build();
+
     }
+
+
 }

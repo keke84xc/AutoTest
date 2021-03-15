@@ -1,0 +1,95 @@
+2021-03-13 12:08:50.936 [main] INFO  com.course.MyApplication - Starting MyApplication on DESKTOP-F865ED8 with PID 164956 (D:\testKits\git_repository\muke\AutoTest\Chapter11_mybatis\target\classes started by shlu in D:\testKits\git_repository\muke\AutoTest)
+2021-03-13 12:08:50.941 [main] INFO  com.course.MyApplication - No active profile set, falling back to default profiles: default
+2021-03-13 12:08:51.811 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8098 (http)
+2021-03-13 12:08:51.819 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-13 12:08:51.819 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-03-13 12:08:51.887 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-13 12:08:51.887 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 899 ms
+2021-03-13 12:08:52.180 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-13 12:08:52.327 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8098 (http) with context path ''
+2021-03-13 12:08:52.335 [main] INFO  com.course.MyApplication - Started MyApplication in 1.758 seconds (JVM running for 2.694)
+2021-03-13 12:08:59.152 [http-nio-8098-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-13 12:08:59.152 [http-nio-8098-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-03-13 12:08:59.156 [http-nio-8098-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2021-03-13 12:08:59.182 [http-nio-8098-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-03-13 12:08:59.398 [http-nio-8098-exec-1] INFO  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-03-13 12:08:59.401 [http-nio-8098-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-03-13 12:30:19.336 [main] INFO  com.course.MyApplication - Starting MyApplication on DESKTOP-F865ED8 with PID 164948 (D:\testKits\git_repository\muke\AutoTest\Chapter11_mybatis\target\classes started by shlu in D:\testKits\git_repository\muke\AutoTest)
+2021-03-13 12:30:19.338 [main] INFO  com.course.MyApplication - No active profile set, falling back to default profiles: default
+2021-03-13 12:30:20.083 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8098 (http)
+2021-03-13 12:30:20.091 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-13 12:30:20.091 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-03-13 12:30:20.174 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-13 12:30:20.174 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 789 ms
+2021-03-13 12:30:20.451 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-13 12:30:20.575 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8098 (http) with context path ''
+2021-03-13 12:30:20.582 [main] INFO  com.course.MyApplication - Started MyApplication in 1.56 seconds (JVM running for 2.537)
+2021-03-13 12:40:14.082 [main] INFO  com.course.MyApplication - Starting MyApplication on DESKTOP-F865ED8 with PID 152332 (D:\testKits\git_repository\muke\AutoTest\Chapter11_mybatis\target\classes started by shlu in D:\testKits\git_repository\muke\AutoTest)
+2021-03-13 12:40:14.085 [main] INFO  com.course.MyApplication - No active profile set, falling back to default profiles: default
+2021-03-13 12:40:14.866 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8098 (http)
+2021-03-13 12:40:14.871 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-13 12:40:14.872 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-03-13 12:40:14.930 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-13 12:40:14.930 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 765 ms
+2021-03-13 12:40:15.218 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-13 12:40:15.347 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8098 (http) with context path ''
+2021-03-13 12:40:15.354 [main] INFO  com.course.MyApplication - Started MyApplication in 1.59 seconds (JVM running for 2.575)
+2021-03-13 12:40:28.209 [http-nio-8098-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-13 12:40:28.209 [http-nio-8098-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-03-13 12:40:28.213 [http-nio-8098-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2021-03-13 12:40:28.238 [http-nio-8098-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-03-13 12:40:28.456 [http-nio-8098-exec-1] INFO  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-03-13 12:40:28.460 [http-nio-8098-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-03-13 16:21:27.823 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h26m29s243ms468µs789ns).
+2021-03-13 16:23:23.642 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=49s93ms828µs89ns).
+2021-03-13 16:24:10.883 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=47s258ms522µs407ns).
+2021-03-13 16:47:54.838 [main] INFO  com.course.MyApplication - Starting MyApplication on DESKTOP-F865ED8 with PID 168372 (D:\testKits\git_repository\muke\AutoTest\Chapter11_mybatis\target\classes started by shlu in D:\testKits\git_repository\muke\AutoTest)
+2021-03-13 16:47:54.841 [main] INFO  com.course.MyApplication - No active profile set, falling back to default profiles: default
+2021-03-13 16:47:55.569 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8098 (http)
+2021-03-13 16:47:55.575 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-13 16:47:55.575 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-03-13 16:47:55.632 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-13 16:47:55.632 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 732 ms
+2021-03-13 16:47:55.899 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-13 16:47:56.041 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8098 (http) with context path ''
+2021-03-13 16:47:56.048 [main] INFO  com.course.MyApplication - Started MyApplication in 1.523 seconds (JVM running for 2.449)
+2021-03-13 16:48:10.908 [http-nio-8098-exec-3] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-13 16:48:10.908 [http-nio-8098-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-03-13 16:48:10.913 [http-nio-8098-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2021-03-13 16:50:30.990 [http-nio-8098-exec-10] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported]
+2021-03-13 16:52:25.616 [http-nio-8098-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-03-13 16:52:25.733 [http-nio-8098-exec-2] INFO  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-03-13 16:52:25.736 [http-nio-8098-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-03-13 16:54:21.445 [main] INFO  com.course.MyApplication - Starting MyApplication on DESKTOP-F865ED8 with PID 166436 (D:\testKits\git_repository\muke\AutoTest\Chapter11_mybatis\target\classes started by shlu in D:\testKits\git_repository\muke\AutoTest)
+2021-03-13 16:54:21.447 [main] INFO  com.course.MyApplication - No active profile set, falling back to default profiles: default
+2021-03-13 16:54:22.192 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8098 (http)
+2021-03-13 16:54:22.197 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-13 16:54:22.197 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-03-13 16:54:22.255 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-13 16:54:22.255 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 751 ms
+2021-03-13 16:54:22.528 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-13 16:54:22.650 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8098 (http) with context path ''
+2021-03-13 16:54:22.657 [main] INFO  com.course.MyApplication - Started MyApplication in 1.532 seconds (JVM running for 2.464)
+2021-03-13 16:54:45.559 [http-nio-8098-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-13 16:54:45.559 [http-nio-8098-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-03-13 16:54:45.563 [http-nio-8098-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2021-03-13 16:54:45.625 [http-nio-8098-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-03-13 16:54:45.738 [http-nio-8098-exec-1] INFO  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-03-13 16:54:45.741 [http-nio-8098-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-03-13 18:29:04.403 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h33m48s576ms837µs763ns).
+2021-03-13 18:33:06.010 [main] INFO  com.course.MyApplication - Starting MyApplication on DESKTOP-F865ED8 with PID 177508 (D:\testKits\git_repository\muke\AutoTest\Chapter11_mybatis\target\classes started by shlu in D:\testKits\git_repository\muke\AutoTest)
+2021-03-13 18:33:06.014 [main] INFO  com.course.MyApplication - No active profile set, falling back to default profiles: default
+2021-03-13 18:33:06.718 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8098 (http)
+2021-03-13 18:33:06.724 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-13 18:33:06.724 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-03-13 18:33:06.779 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-13 18:33:06.780 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 714 ms
+2021-03-13 18:33:07.041 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-13 18:33:07.164 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8098 (http) with context path ''
+2021-03-13 18:33:07.170 [main] INFO  com.course.MyApplication - Started MyApplication in 1.496 seconds (JVM running for 2.531)
+2021-03-13 18:33:15.361 [http-nio-8098-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-13 18:33:15.361 [http-nio-8098-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-03-13 18:33:15.365 [http-nio-8098-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2021-03-13 18:33:15.430 [http-nio-8098-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-03-13 18:33:15.536 [http-nio-8098-exec-1] INFO  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-03-13 18:33:15.539 [http-nio-8098-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.

@@ -8,6 +8,10 @@ import org.springframework.web.bind.annotation.*;
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import java.io.UnsupportedEncodingException;
+import java.net.URLDecoder;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Objects;
 
 @RestController
@@ -43,10 +47,8 @@ public class MyPostMethodServer {
         if (username.equals("zhangsan") && password.equals("123456")){
             Cookie cookie1 = new Cookie("sessionId","akdhaajkdgjadadakdlalda==");
             Cookie cookie2 = new Cookie("login","true");
-
             response.addCookie(cookie1);
             response.addCookie(cookie2);
-
             return "恭喜你登录成功了";
         }
         return "用户名或密码错误";
@@ -62,6 +64,8 @@ public class MyPostMethodServer {
         if (Objects.isNull(cookies)){
             return "参数不合法";
         }
+
+
         for (Cookie currentCookie:cookies){
             if (currentCookie.getName().equals("login") &&
                     currentCookie.getValue().equals("true") &&
@@ -77,4 +81,20 @@ public class MyPostMethodServer {
         }
         return "参数不合法";
     }
+
+    @PostMapping("/save")
+    @ApiOperation(value = "测试",httpMethod = "POST")
+    public Map<String,Object> getBody(@RequestBody String content){
+        try {
+            content = URLDecoder.decode(content,"utf-8");
+        } catch (UnsupportedEncodingException e) {
+            e.printStackTrace();
+        }
+        Map<String,Object> headers = new HashMap<>();
+        headers.put("content",content);
+        return headers;
+    }
+
+
+
 }
