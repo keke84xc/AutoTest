@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="用户管理系统测试套件">
+    <test name="用户管理系统测试用例">
+
+        <classes>
+            <class name="com.keke84.cases.LoginTest">
+                <methods>
+                    <include name="testLoginTrue"></include>
+                    <include name="testLoginFalse"></include>
+                </methods>
+            </class>
+
+<!--            <class name="com.keke84.cases.AddUserTest">-->
+<!--                <methods>-->
+<!--                    <include name="testAddUser"></include>-->
+<!--                </methods>-->
+<!--            </class>-->
+
+<!--            <class name="com.keke84.cases.GetUserInfoTest">-->
+<!--                <methods>-->
+<!--                    <include name="testGetUserInfo"></include>-->
+<!--                </methods>-->
+<!--            </class>-->
+
+<!--            <class name="com.keke84.cases.GetUserListInfoTest">-->
+<!--                <methods>-->
+<!--                    <include name="testGetUserListInfo"></include>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--            -->
+            <class name="com.keke84.cases.UpdateUserInfoTest">
+                <methods>
+                    <include name="testUpdateUserInfo"></include>
+                    <include name="testDeleteUserInfo"></include>
+<!--                    <exclude name="testDeleteUserInfo"></exclude>-->
+                </methods>
+            </class>
+        </classes>
+
+    </test>
+    
+    <listeners>
+        <listener class-name="com.keke84.config.ExtentTestNGIReporterListener"></listener>
+    </listeners>
+    
+</suite>

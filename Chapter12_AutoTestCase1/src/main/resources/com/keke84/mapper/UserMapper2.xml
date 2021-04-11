@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="userMapper2">
+
+    <select id="getUserList" resultType="com.keke84.model.User" parameterType="com.keke84.model.GetUserListCase">
+        select * from tb_user
+        <where>
+            <if test="null != userName and '' !=userName">
+                AND userName=#{userName}
+            </if>
+            <if test="null != sex and '' !=sex">
+                AND sex=#{sex}
+            </if>
+            <if test="null != age and '' !=age">
+                AND age=#{age}
+            </if>
+        </where>
+    </select>
+
+
+</mapper>

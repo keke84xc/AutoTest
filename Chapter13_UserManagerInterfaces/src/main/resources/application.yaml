@@ -1,0 +1,20 @@
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/course?useUnicode=true&characterEncoding=UTF8
+    username: root
+    password:
+server:
+  port: 8998
+
+#Spring Boot日志文件路径
+logging:
+  file:
+    path: /logs/userManager.log
+
+#mybatis:
+#  #别名包
+#  type-aliases-package: com.keke84.boot
+#  mapper-locations:
+#    - mapper/*

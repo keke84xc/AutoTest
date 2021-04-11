@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/AutoTest.iml" filepath="$PROJECT_DIR$/.idea/AutoTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter10_springBoot/Chapter10_springBoot.iml" filepath="$PROJECT_DIR$/Chapter10_springBoot/Chapter10_springBoot.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter11_mybatis/Chapter11_mybatis.iml" filepath="$PROJECT_DIR$/Chapter11_mybatis/Chapter11_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12_AutoTestCase1/Chapter12_AutoTestCase1.iml" filepath="$PROJECT_DIR$/Chapter12_AutoTestCase1/Chapter12_AutoTestCase1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13_UserManagerInterfaces/Chapter13_UserManagerInterfaces.iml" filepath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/Chapter13_UserManagerInterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter5_testng/Chapter5_testng.iml" filepath="$PROJECT_DIR$/Chapter5_testng/Chapter5_testng.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter6_report_ExtentReport/Chapter6_report_ExtentReport.iml" filepath="$PROJECT_DIR$/Chapter6_report_ExtentReport/Chapter6_report_ExtentReport.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter9_httpclient/Chapter9_httpclient.iml" filepath="$PROJECT_DIR$/Chapter9_httpclient/Chapter9_httpclient.iml" />

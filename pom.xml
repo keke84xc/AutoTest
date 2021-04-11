@@ -25,6 +25,8 @@
         <module>Chapter9_httpclient</module>
         <module>Chapter10_springBoot</module>
         <module>Chapter11_mybatis</module>
+        <module>Chapter12_AutoTestCase1</module>
+        <module>Chapter13_UserManagerInterfaces</module>
     </modules>
 
 

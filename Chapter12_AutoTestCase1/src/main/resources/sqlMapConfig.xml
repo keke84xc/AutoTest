@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<!-- 核心配置文件 -->
+<configuration>
+    <!--    <typeAliases>-->
+    <!--        <package name="com.course.model"/>-->
+    <!--    </typeAliases>-->
+    <!-- 加载映射文件 -->
+    <properties resource="application.properties" />
+    <environments default="dev">
+        <environment id="dev">
+            <transactionManager type="JDBC"></transactionManager>
+            <dataSource type="POOLED">
+                <property name="driver" value="${jdbc.driver}"/>
+                <property name="url" value="${jdbc.url}"/>
+                <property name="username" value="${jdbc.username}"/>
+                <property name="password" value="${jdbc.password}"/>
+            </dataSource>
+        </environment>
+    </environments>
+    <!-- 相当于mapper扫描 -->
+    <mappers>
+        <package name="com.keke84.mapper"></package>
+
+
+    </mappers>
+
+
+</configuration>

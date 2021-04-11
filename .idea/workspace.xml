@@ -26,49 +26,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="957ed651-03d0-4237-afc1-4b1325721ec9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11_mybatis/Chapter11_mybatis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11_mybatis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11_mybatis/src/main/java/com/course/MyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11_mybatis/src/main/java/com/course/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11_mybatis/src/main/java/com/course/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11_mybatis/src/main/java/com/course/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11_mybatis/src/main/java/com/course/model/User2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11_mybatis/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11_mybatis/src/main/resources/com/course/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11_mybatis/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11_mybatis/src/main/resources/sqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter7_moco-runner/startup2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/event.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/mylog.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2021-03-13" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2021-03-14" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mylog.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_4_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_4_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_31_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/Chapter12_AutoTestCase1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/java/com/keke84/cases/AddUserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/java/com/keke84/cases/GetUserInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/java/com/keke84/cases/GetUserListInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/java/com/keke84/cases/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/java/com/keke84/cases/UpdateUserInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/java/com/keke84/config/ExtentTestNGIReporterListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/java/com/keke84/config/TestConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/java/com/keke84/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/java/com/keke84/model/AddUserCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/java/com/keke84/model/GetUserInfoCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/java/com/keke84/model/GetUserListCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/java/com/keke84/model/InterfaceName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/java/com/keke84/model/LoginCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/java/com/keke84/model/UpdateUserInfoCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/java/com/keke84/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/java/com/keke84/provider/UserSqlProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/java/com/keke84/utils/ConfigFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/java/com/keke84/utils/DatabaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/resources/com/keke84/mapper/UserMapper2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/resources/sqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/Chapter13_UserManagerInterfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/src/main/java/com/keke84/boot/MyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/src/main/java/com/keke84/boot/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/src/main/java/com/keke84/boot/controller/UserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/src/main/java/com/keke84/boot/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/src/main/java/com/keke84/boot/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/src/main/java/com/keke84/boot/provider/UserSqlProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/src/main/resources/logback.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10_springBoot/Chapter10_springBoot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10_springBoot/Chapter10_springBoot.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10_springBoot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10_springBoot/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10_springBoot/src/main/java/com/keke84/code/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10_springBoot/src/main/java/com/keke84/code/config/SwaggerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10_springBoot/src/main/java/com/keke84/code/get/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10_springBoot/src/main/java/com/keke84/code/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10_springBoot/src/main/java/com/keke84/code/get/MyGetMethodServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10_springBoot/src/main/java/com/keke84/code/get/MyGetMethodServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10_springBoot/src/main/java/com/keke84/code/post/MyPostMethodServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10_springBoot/src/main/java/com/keke84/code/post/MyPostMethodServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter10_springBoot/src/main/java/com/keke84/code/quickStart/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10_springBoot/src/main/java/com/keke84/code/quickStart/DemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10_springBoot/target/classes/com/keke84/code/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10_springBoot/target/classes/com/keke84/code/config/SwaggerConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10_springBoot/target/classes/com/keke84/code/get/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10_springBoot/target/classes/com/keke84/code/get/MyGetMethodServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10_springBoot/target/classes/com/keke84/code/get/MyGetMethodServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10_springBoot/target/classes/com/keke84/code/post/MyPostMethodServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10_springBoot/target/classes/com/keke84/code/post/MyPostMethodServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10_springBoot/target/classes/com/keke84/code/quickStart/DemoApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10_springBoot/target/classes/com/keke84/code/quickStart/DemoApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter7_moco-runner/startup1.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter7_moco-runner/startup1.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +89,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -102,81 +113,62 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="H:/测试学习视频/自学视频/新建文件夹/超清无秘-最全面的Java接口自动化测试实战（推荐）/课程代码/12章/AutoTest2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.24597701" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\testKits\git_repository\muke\AutoTest\Chapter7_moco-runner" />
-      <recent name="D:\testKits\git_repository\muke\AutoTest\Chapter6_report_ExtentReport\src\main\resources" />
-      <recent name="D:\testKits\git_repository\muke\AutoTest" />
-      <recent name="D:\testKits\git_repository\muke\AutoTest\Chapter5_testng\src\main\resources" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.keke84.httpclient.cookies" />
-      <recent name="com.tester.etend.demo" />
-      <recent name="groups" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\testKits\git_repository\muke\AutoTest\Chapter11_mybatis\src\main\resources\com\course\mapper" />
       <recent name="D:\testKits\git_repository\muke\AutoTest\Chapter7_moco-runner" />
       <recent name="D:\testKits\git_repository\muke\AutoTest\Chapter5_testng\src\main\resources" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.keke84.provider" />
+      <recent name="com.keke84.boot.config" />
+      <recent name="com.keke84.config" />
+      <recent name="com.keke84.httpclient.cookies" />
+      <recent name="com.tester.etend.demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\testKits\git_repository\muke\AutoTest\Chapter13_UserManagerInterfaces\src\main\resources" />
+      <recent name="D:\testKits\git_repository\muke\AutoTest\Chapter12_AutoTestCase1\src\main\resources" />
+      <recent name="D:\testKits\git_repository\muke\AutoTest\Chapter7_moco-runner" />
+      <recent name="D:\testKits\git_repository\muke\AutoTest\Chapter6_report_ExtentReport\src\main\resources" />
+      <recent name="D:\testKits\git_repository\muke\AutoTest" />
+    </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.MyApplication">
-    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="Chapter10_springBoot" />
+  <component name="RunManager" selected="TestNG.D:/testKits/git_repository/muke/AutoTest/Chapter12_AutoTestCase1/src/main/resources/testng.xml">
+    <configuration name="AddUserTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter12_AutoTestCase1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.keke84.code.*" />
+          <option name="PATTERN" value="com.keke84.cases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.keke84.code.Application" />
+      <option name="PACKAGE_NAME" value="com.keke84.cases" />
+      <option name="MAIN_CLASS_NAME" value="com.keke84.cases.AddUserTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="Chapter10_springBoot" />
+    <configuration name="AddUserTest.testAddUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter12_AutoTestCase1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.keke84.code.quickStart.*" />
+          <option name="PATTERN" value="com.keke84.cases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.keke84.code.quickStart.DemoApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="Chapter11_mybatis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.course.MyApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyCookiesForPostByJsonObject.testPostByJsonBodyAndCookies2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter9_httpclient" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.keke84.httpclient.cookies.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.keke84.httpclient.cookies" />
-      <option name="MAIN_CLASS_NAME" value="com.keke84.httpclient.cookies.MyCookiesForPostByJsonObject" />
-      <option name="METHOD_NAME" value="testPostByJsonBodyAndCookies2" />
+      <option name="PACKAGE_NAME" value="com.keke84.cases" />
+      <option name="MAIN_CLASS_NAME" value="com.keke84.cases.AddUserTest" />
+      <option name="METHOD_NAME" value="testAddUser" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -184,18 +176,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PostWithFormData.testGetBayern1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter9_httpclient" />
+    <configuration name="D:/testKits/git_repository/muke/AutoTest/Chapter12_AutoTestCase1/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter12_AutoTestCase1" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/testKits/git_repository/muke/AutoTest/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutoTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetUserListInfoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter12_AutoTestCase1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.keke84.httpclient.formData.*" />
+          <option name="PATTERN" value="com.keke84.cases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.keke84.httpclient.formData" />
-      <option name="MAIN_CLASS_NAME" value="com.keke84.httpclient.formData.PostWithFormData" />
-      <option name="METHOD_NAME" value="testGetBayern1" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.keke84.cases" />
+      <option name="MAIN_CLASS_NAME" value="com.keke84.cases.GetUserListInfoTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -204,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.MyApplication" />
-        <item itemvalue="Spring Boot.Application" />
-        <item itemvalue="Spring Boot.DemoApplication" />
-        <item itemvalue="TestNG.PostWithFormData.testGetBayern1" />
-        <item itemvalue="TestNG.MyCookiesForPostByJsonObject.testPostByJsonBodyAndCookies2" />
+        <item itemvalue="TestNG.D:/testKits/git_repository/muke/AutoTest/Chapter12_AutoTestCase1/src/main/resources/testng.xml" />
+        <item itemvalue="TestNG.D:/testKits/git_repository/muke/AutoTest/testng.xml" />
+        <item itemvalue="TestNG.GetUserListInfoTest" />
+        <item itemvalue="TestNG.AddUserTest.testAddUser" />
+        <item itemvalue="TestNG.AddUserTest" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +242,10 @@
       <workItem from="1611563640807" duration="6589000" />
       <workItem from="1611822482468" duration="6721000" />
       <workItem from="1612601106385" duration="18000" />
-      <workItem from="1615450886396" duration="52688000" />
+      <workItem from="1615450886396" duration="53590000" />
+      <workItem from="1615886363174" duration="40764000" />
+      <workItem from="1616347218430" duration="35230000" />
+      <workItem from="1616672738986" duration="84253000" />
     </task>
     <servers />
   </component>
@@ -263,99 +277,103 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-2247" y="296" width="1279" height="851" key="#Project_Structure" timestamp="1609239487136">
+    <state x="-2247" y="296" width="1279" height="851" key="#Project_Structure" timestamp="1616581279444">
       <screen x="-2560" y="94" width="2048" height="1112" />
     </state>
-    <state x="-2247" y="296" width="1279" height="851" key="#Project_Structure/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1609239487136" />
-    <state x="-1795" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1610019342675">
+    <state x="-2247" y="296" width="1279" height="851" key="#Project_Structure/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1616581279444" />
+    <state x="-2467" y="187" width="1862" height="926" maximized="true" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1617787046222">
       <screen x="-2560" y="94" width="2048" height="1112" />
     </state>
-    <state x="-1795" y="224" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1610019342675" />
+    <state x="-2467" y="187" width="1862" height="926" maximized="true" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1617787046222" />
+    <state x="-1795" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1617016244371">
+      <screen x="-2560" y="94" width="2048" height="1112" />
+    </state>
+    <state x="-1795" y="224" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1617016244371" />
     <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1609093844033" />
     <state x="374" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1608995458666">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="374" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1608995458666" />
-    <state width="428" height="466" key="DebuggerActiveHint" timestamp="1615569233045">
+    <state width="997" height="466" key="DebuggerActiveHint" timestamp="1618117787881">
       <screen x="-2560" y="94" width="2048" height="1112" />
     </state>
-    <state width="428" height="466" key="DebuggerActiveHint/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1615569233045" />
-    <state x="-1898" y="541" key="FileChooserDialogImpl" timestamp="1615707353195">
+    <state width="997" height="466" key="DebuggerActiveHint/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1618117787881" />
+    <state x="-1898" y="541" key="FileChooserDialogImpl" timestamp="1617773075340">
       <screen x="-2560" y="94" width="2048" height="1112" />
     </state>
-    <state x="-1898" y="541" key="FileChooserDialogImpl/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1615707353195" />
+    <state x="-1898" y="541" key="FileChooserDialogImpl/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1617773075340" />
     <state x="497" y="331" key="FileChooserDialogImpl/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1611308045229" />
     <state x="392" y="64" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609254316311" />
-    <state width="2005" height="202" key="GridCell.Tab.0.bottom" timestamp="1615804777799">
+    <state width="2005" height="175" key="GridCell.Tab.0.bottom" timestamp="1618118422367">
       <screen x="-2560" y="94" width="2048" height="1112" />
     </state>
-    <state width="2005" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1615804777799" />
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1615610412712" />
-    <state width="1493" height="291" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610949238040" />
-    <state width="2005" height="202" key="GridCell.Tab.0.center" timestamp="1615804777799">
+    <state width="2005" height="175" key="GridCell.Tab.0.bottom/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1618118422367" />
+    <state width="1493" height="293" key="GridCell.Tab.0.bottom/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1617868949432" />
+    <state width="1493" height="464" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617369257691" />
+    <state width="2005" height="175" key="GridCell.Tab.0.center" timestamp="1618118422367">
       <screen x="-2560" y="94" width="2048" height="1112" />
     </state>
-    <state width="2005" height="202" key="GridCell.Tab.0.center/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1615804777799" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1615610412712" />
-    <state width="1493" height="291" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610949238040" />
-    <state width="2005" height="202" key="GridCell.Tab.0.left" timestamp="1615804777799">
+    <state width="2005" height="175" key="GridCell.Tab.0.center/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1618118422367" />
+    <state width="1493" height="293" key="GridCell.Tab.0.center/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1617868949432" />
+    <state width="1493" height="464" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617369257691" />
+    <state width="2005" height="175" key="GridCell.Tab.0.left" timestamp="1618118422367">
       <screen x="-2560" y="94" width="2048" height="1112" />
     </state>
-    <state width="2005" height="202" key="GridCell.Tab.0.left/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1615804777799" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1615610412712" />
-    <state width="1493" height="291" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610949238040" />
-    <state width="2005" height="202" key="GridCell.Tab.0.right" timestamp="1615804777799">
+    <state width="2005" height="175" key="GridCell.Tab.0.left/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1618118422367" />
+    <state width="1493" height="293" key="GridCell.Tab.0.left/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1617868949432" />
+    <state width="1493" height="464" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617369257689" />
+    <state width="2005" height="175" key="GridCell.Tab.0.right" timestamp="1618118422367">
       <screen x="-2560" y="94" width="2048" height="1112" />
     </state>
-    <state width="2005" height="202" key="GridCell.Tab.0.right/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1615804777799" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1615610412712" />
-    <state width="1493" height="291" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610949238040" />
-    <state width="2005" height="202" key="GridCell.Tab.1.bottom" timestamp="1615804777799">
+    <state width="2005" height="175" key="GridCell.Tab.0.right/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1618118422367" />
+    <state width="1493" height="293" key="GridCell.Tab.0.right/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1617868949432" />
+    <state width="1493" height="464" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617369257691" />
+    <state width="2005" height="263" key="GridCell.Tab.1.bottom" timestamp="1618118148395">
       <screen x="-2560" y="94" width="2048" height="1112" />
     </state>
-    <state width="2005" height="202" key="GridCell.Tab.1.bottom/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1615804777799" />
-    <state width="1493" height="208" key="GridCell.Tab.1.bottom/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1615610412712" />
-    <state width="1493" height="291" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610949238041" />
-    <state width="2005" height="202" key="GridCell.Tab.1.center" timestamp="1615804777799">
+    <state width="2005" height="263" key="GridCell.Tab.1.bottom/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1618118148395" />
+    <state width="1493" height="293" key="GridCell.Tab.1.bottom/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1617868949432" />
+    <state width="1493" height="87" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616864375540" />
+    <state width="2005" height="263" key="GridCell.Tab.1.center" timestamp="1618118148395">
       <screen x="-2560" y="94" width="2048" height="1112" />
     </state>
-    <state width="2005" height="202" key="GridCell.Tab.1.center/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1615804777799" />
-    <state width="1493" height="208" key="GridCell.Tab.1.center/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1615610412712" />
-    <state width="1493" height="291" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1610949238040" />
-    <state width="2005" height="202" key="GridCell.Tab.1.left" timestamp="1615804777799">
+    <state width="2005" height="263" key="GridCell.Tab.1.center/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1618118148395" />
+    <state width="1493" height="293" key="GridCell.Tab.1.center/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1617868949432" />
+    <state width="1493" height="87" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1616864375540" />
+    <state width="2005" height="263" key="GridCell.Tab.1.left" timestamp="1618118148395">
       <screen x="-2560" y="94" width="2048" height="1112" />
     </state>
-    <state width="2005" height="202" key="GridCell.Tab.1.left/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1615804777799" />
-    <state width="1493" height="208" key="GridCell.Tab.1.left/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1615610412712" />
-    <state width="1493" height="291" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1610949238040" />
-    <state width="2005" height="202" key="GridCell.Tab.1.right" timestamp="1615804777799">
+    <state width="2005" height="263" key="GridCell.Tab.1.left/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1618118148395" />
+    <state width="1493" height="293" key="GridCell.Tab.1.left/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1617868949432" />
+    <state width="1493" height="87" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1616864375540" />
+    <state width="2005" height="263" key="GridCell.Tab.1.right" timestamp="1618118148395">
       <screen x="-2560" y="94" width="2048" height="1112" />
     </state>
-    <state width="2005" height="202" key="GridCell.Tab.1.right/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1615804777799" />
-    <state width="1493" height="208" key="GridCell.Tab.1.right/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1615610412712" />
-    <state width="1493" height="291" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1610949238040" />
-    <state width="1493" height="160" key="GridCell.Tab.2.bottom" timestamp="1615605909178">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="2005" height="263" key="GridCell.Tab.1.right/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1618118148395" />
+    <state width="1493" height="293" key="GridCell.Tab.1.right/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1617868949432" />
+    <state width="1493" height="87" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1616864375540" />
+    <state width="2005" height="201" key="GridCell.Tab.2.bottom" timestamp="1617782089462">
+      <screen x="-2560" y="94" width="2048" height="1112" />
     </state>
-    <state width="2005" height="336" key="GridCell.Tab.2.bottom/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1615605607240" />
+    <state width="2005" height="201" key="GridCell.Tab.2.bottom/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1617782089462" />
     <state width="1493" height="160" key="GridCell.Tab.2.bottom/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1615605909178" />
     <state width="1493" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610948852604" />
-    <state width="1493" height="160" key="GridCell.Tab.2.center" timestamp="1615605909178">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="2005" height="201" key="GridCell.Tab.2.center" timestamp="1617782089461">
+      <screen x="-2560" y="94" width="2048" height="1112" />
     </state>
-    <state width="2005" height="336" key="GridCell.Tab.2.center/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1615605607240" />
+    <state width="2005" height="201" key="GridCell.Tab.2.center/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1617782089461" />
     <state width="1493" height="160" key="GridCell.Tab.2.center/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1615605909178" />
     <state width="1493" height="261" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1610948852603" />
-    <state width="1493" height="160" key="GridCell.Tab.2.left" timestamp="1615605909178">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="2005" height="201" key="GridCell.Tab.2.left" timestamp="1617782089461">
+      <screen x="-2560" y="94" width="2048" height="1112" />
     </state>
-    <state width="2005" height="336" key="GridCell.Tab.2.left/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1615605607240" />
+    <state width="2005" height="201" key="GridCell.Tab.2.left/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1617782089461" />
     <state width="1493" height="160" key="GridCell.Tab.2.left/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1615605909178" />
     <state width="1493" height="261" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1610948852603" />
-    <state width="1493" height="160" key="GridCell.Tab.2.right" timestamp="1615605909178">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="2005" height="201" key="GridCell.Tab.2.right" timestamp="1617782089461">
+      <screen x="-2560" y="94" width="2048" height="1112" />
     </state>
-    <state width="2005" height="336" key="GridCell.Tab.2.right/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1615605607240" />
+    <state width="2005" height="201" key="GridCell.Tab.2.right/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1617782089461" />
     <state width="1493" height="160" key="GridCell.Tab.2.right/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1615605909178" />
     <state width="1493" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1610948852603" />
     <state x="-1955" y="393" key="IDE.errors.dialog" timestamp="1609383263719">
@@ -379,10 +397,19 @@
       <screen x="-2560" y="94" width="2048" height="1112" />
     </state>
     <state x="-1740" y="563" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1609411013997" />
-    <state x="-1765" y="527" key="new project wizard" timestamp="1615451917699">
+    <state x="-1995" y="390" key="new project wizard" timestamp="1616579631835">
       <screen x="-2560" y="94" width="2048" height="1112" />
     </state>
-    <state x="-1765" y="527" key="new project wizard/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1615451917699" />
+    <state x="-1995" y="390" key="new project wizard/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1616579631835" />
+    <state x="315" y="113" key="new project wizard/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1615893663705" />
     <state x="107" y="42" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1610438855411" />
+    <state x="-1759" y="406" key="refactoring.ChangeSignatureDialog" timestamp="1617945946501">
+      <screen x="-2560" y="94" width="2048" height="1112" />
+    </state>
+    <state x="-1759" y="406" key="refactoring.ChangeSignatureDialog/0.0.1536.824/-2560.94.2048.1112@-2560.94.2048.1112" timestamp="1617945946501" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1616495511488">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/-2560.94.2048.1112@0.0.1536.824" timestamp="1616495511488" />
   </component>
 </project>
