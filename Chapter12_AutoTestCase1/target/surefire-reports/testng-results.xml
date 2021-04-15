@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="用户管理系统测试套件" duration-ms="6412" started-at="2021-04-12T07:12:24Z" finished-at="2021-04-12T07:12:30Z">
+    <groups>
+      <group name="loginTrue">
+        <method signature="LoginTest.testLoginTrue()[pri:0, instance:com.keke84.cases.LoginTest@90f6bfd]" name="testLoginTrue" class="com.keke84.cases.LoginTest"/>
+      </group> <!-- loginTrue -->
+      <group name="loginFalse">
+        <method signature="LoginTest.testLoginFalse()[pri:0, instance:com.keke84.cases.LoginTest@90f6bfd]" name="testLoginFalse" class="com.keke84.cases.LoginTest"/>
+      </group> <!-- loginFalse -->
+    </groups>
+    <test name="用户管理系统测试用例" duration-ms="6412" started-at="2021-04-12T07:12:24Z" finished-at="2021-04-12T07:12:30Z">
+      <class name="com.keke84.cases.UpdateUserInfoTest">
+        <test-method status="PASS" signature="testUpdateUserInfo()[pri:0, instance:com.keke84.cases.UpdateUserInfoTest@47f6473]" name="testUpdateUserInfo" duration-ms="443" depends-on-groups="loginTrue" started-at="2021-04-12T07:12:30Z" description="更改用户信息" finished-at="2021-04-12T07:12:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUserInfo -->
+        <test-method status="PASS" signature="testDeleteUserInfo()[pri:0, instance:com.keke84.cases.UpdateUserInfoTest@47f6473]" name="testDeleteUserInfo" duration-ms="442" depends-on-groups="loginTrue" started-at="2021-04-12T07:12:30Z" description="删除用户" finished-at="2021-04-12T07:12:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUserInfo -->
+      </class> <!-- com.keke84.cases.UpdateUserInfoTest -->
+      <class name="com.keke84.cases.LoginTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.keke84.cases.LoginTest@90f6bfd]" name="beforeTest" is-config="true" duration-ms="456" started-at="2021-04-12T07:12:24Z" description="测试准备" finished-at="2021-04-12T07:12:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testLoginTrue()[pri:0, instance:com.keke84.cases.LoginTest@90f6bfd]" name="testLoginTrue" duration-ms="4976" started-at="2021-04-12T07:12:25Z" description="用户登录成功接口测试" finished-at="2021-04-12T07:12:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginTrue -->
+        <test-method status="PASS" signature="testLoginFalse()[pri:0, instance:com.keke84.cases.LoginTest@90f6bfd]" name="testLoginFalse" duration-ms="67" started-at="2021-04-12T07:12:30Z" description="用户登录失败接口测试" finished-at="2021-04-12T07:12:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFalse -->
+      </class> <!-- com.keke84.cases.LoginTest -->
+    </test> <!-- 用户管理系统测试用例 -->
+  </suite> <!-- 用户管理系统测试套件 -->
+</testng-results>

@@ -13,6 +13,7 @@
         <module name="Chapter5_testng" />
         <module name="Chapter10_springBoot" />
         <module name="Chapter9_httpclient" />
+        <module name="Chapter14_UserManagerInterfaces_xml1" />
         <module name="Chapter12_AutoTestCase1" />
         <module name="Chapter6_report_ExtentReport" />
       </profile>
@@ -23,8 +24,9 @@
       <module name="Chapter11_mybatis" target="1.8" />
       <module name="Chapter12_AutoTestCase1" target="1.8" />
       <module name="Chapter13_UserManagerInterfaces" target="1.8" />
-      <module name="Chapter5_testng" target="1.5" />
-      <module name="Chapter6_report_ExtentReport" target="1.5" />
+      <module name="Chapter14_UserManagerInterfaces_xml1" target="1.8" />
+      <module name="Chapter5_testng" target="1.8" />
+      <module name="Chapter6_report_ExtentReport" target="1.8" />
       <module name="Chapter9_httpclient" target="7" />
     </bytecodeTargetLevel>
   </component>
@@ -33,7 +35,8 @@
       <module name="Chapter10_springBoot" options="-parameters" />
       <module name="Chapter11_mybatis" options="-parameters" />
       <module name="Chapter12_AutoTestCase1" options="-parameters" />
-      <module name="Chapter13_UserManagerInterfaces" options="-parameters" />
+      <module name="Chapter13_UserManagerInterfaces" options="-parameters -extdirs D:\testKits\git_repository\muke\AutoTest\Chapter13_UserManagerInterfaces/lib" />
+      <module name="Chapter14_UserManagerInterfaces_xml1" options="-parameters" />
       <module name="Chapter9_httpclient" options="-parameters" />
     </option>
   </component>

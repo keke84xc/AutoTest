@@ -80,4 +80,26 @@
 
     </dependencies>
 
+    <!--属性定义-->
+    <properties>
+        <suiteXmlFiles>
+            ./src/main/resources/testng.xml
+        </suiteXmlFiles>
+    </properties>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <!--测试运行器，通过该插件来执行JUnit或者TestNG的测试用例-->
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>2.7.1</version>
+                <configuration>
+                    <!--通过指定<suiteXmlFiles>属性来运行指定的testng.xml执行测试套-->
+                    <suiteXmlFiles>
+                        ${suiteXmlFiles}
+                    </suiteXmlFiles>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 </project>

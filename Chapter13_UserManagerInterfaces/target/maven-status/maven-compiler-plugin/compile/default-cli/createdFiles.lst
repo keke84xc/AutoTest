@@ -1,5 +1,0 @@
-com\keke84\boot\model\User.class
-com\keke84\boot\mapper\UserMapper.class
-com\keke84\boot\MyApplication.class
-com\keke84\boot\config\SwaggerConfig.class
-com\keke84\boot\controller\UserManager.class

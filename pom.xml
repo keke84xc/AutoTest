@@ -27,6 +27,7 @@
         <module>Chapter11_mybatis</module>
         <module>Chapter12_AutoTestCase1</module>
         <module>Chapter13_UserManagerInterfaces</module>
+        <module>Chapter14_UserManagerInterfaces_xml1</module>
     </modules>
 
 
