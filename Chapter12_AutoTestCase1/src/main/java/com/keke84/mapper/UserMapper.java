@@ -15,23 +15,23 @@ public interface UserMapper {
     public User findUserById(Integer id);
 
     //获取登录接口case数据
-    @Select("select * from tb_loginCase where id=#{id}")
+    @Select("select * from tb_logincase where id=#{id}")
     public LoginCase findLoginCaseById(Integer id);
 
     //获取添加用户接口case数据
-    @Select("select * from tb_addUserCase where id=#{id}")
+    @Select("select * from tb_addusercase where id=#{id}")
     public AddUserCase findAddUserCaseById(Integer id);
 
     //获取查询用户列表接口case数据
-    @Select("select * from tb_getUserListCase where id=#{id}")
+    @Select("select * from tb_getuserlistcase where id=#{id}")
     public GetUserListCase findGetUserListCaseById(Integer id);
 
     //获取查询用户信息接口case数据
-    @Select("select * from tb_getUserInfoCase where id=#{id}")
+    @Select("select * from tb_getuserinfocase where id=#{id}")
     public GetUserInfoCase findGetUserInfoCaseById(Integer id);
 
     //获取更新/删除用户接口case数据
-    @Select("select * from tb_updateUserInfoCase where id=#{id}")
+    @Select("select * from tb_updateuserinfocase where id=#{id}")
     public UpdateUserInfoCase findUpdateUserInfoCaseById(Integer id);
 
     @SelectProvider(type = UserSqlProvider.class,method = "selectByGetUserListCase")
