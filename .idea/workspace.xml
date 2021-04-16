@@ -26,60 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="957ed651-03d0-4237-afc1-4b1325721ec9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter11_mybatis/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter11_mybatis/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/java/com/keke84/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/java/com/keke84/mapper/UserMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/Chapter12_AutoTestCase1-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/TestSuite.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/bullet_point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/collapseall.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/emailable-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/failed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/junitreports/TEST-com.keke84.cases.LoginTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/junitreports/TEST-com.keke84.cases.UpdateUserInfoTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/old/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/old/用户管理系统测试套件/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/old/用户管理系统测试套件/groups.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/old/用户管理系统测试套件/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/old/用户管理系统测试套件/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/old/用户管理系统测试套件/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/old/用户管理系统测试套件/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/old/用户管理系统测试套件/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/old/用户管理系统测试套件/reporter-output.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/old/用户管理系统测试套件/testng.xml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/old/用户管理系统测试套件/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/old/用户管理系统测试套件/用户管理系统测试用例.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/passed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/skipped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/testng-reports.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/testng-reports.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/testng-results.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/testng.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/用户管理系统测试套件/用户管理系统测试用例.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire-reports/用户管理系统测试套件/用户管理系统测试用例.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire/surefire1361055480625918239tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/target/surefire/surefire2883624051477324944tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter12_AutoTestCase1/src/main/resources/application.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/target/Chapter13_UserManagerInterfaces-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/target/Chapter13_UserManagerInterfaces-1.0-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/target/classes/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter13_UserManagerInterfaces/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -261,7 +210,7 @@
       <workItem from="1615886363174" duration="40764000" />
       <workItem from="1616347218430" duration="35230000" />
       <workItem from="1616672738986" duration="93069000" />
-      <workItem from="1618243206604" duration="5920000" />
+      <workItem from="1618243206604" duration="6295000" />
     </task>
     <servers />
   </component>
